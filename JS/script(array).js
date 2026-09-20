@@ -25,3 +25,17 @@ console.log(item)                           // Map use kore list ber kora
 studentsList.map((item,index)=>{
 console.log(item,index)                   // Map use kore list o index ber kora        
 }) 
+console.log(studentsList.toString())     //toString use kore list ber kora
+console.log(studentsList)
+
+console.log(studentsList.at(5))         //at use kore index ber kora
+
+console.log(studentsList.join(" * "))         //join symbol use kore list ber kora
+
+console.log(studentsList.pop())                 //pop use kore last item ber kora
+
+let removeItem = studentsList.pop()                 //pop use kore  item remove kora
+console.log(removeItem)
+
+studentsList.push("Akash")
+console.log(studentsList)                        //push use kore  item add kora
