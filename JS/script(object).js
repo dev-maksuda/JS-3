@@ -13,13 +13,12 @@
 //   lastName: "Doe",
 //   age: 50,
 //   fullName: function() {
-//     return this.firstName + " " + this.lastName;  //object er vhitore access nite chaile this
+//     return this.firstName + " " + this.lastName;     //object er vhitore access nite chaile this
 //   }
 // };
 // console.log(person. fullName())
 
-// const a = {fullName: person.firstName + " " + person.lastName  //object er baire access nite chaile 
-
+// const a = {fullName: person.firstName + " " + person.lastName     //object er baire access nite chaile 
 // }
 // console.log(a)
 
