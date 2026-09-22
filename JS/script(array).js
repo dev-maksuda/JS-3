@@ -32,7 +32,7 @@ console.log(studentsList.at(5))         //at use kore index ber kora
 
 console.log(studentsList.join(" * "))         //join symbol use kore list ber kora
 
-console.log(studentsList.pop())                 //pop use kore last item ber kora
+console.log(studentsList.pop())                 //pop use kore last item delete kora
 
 let removeItem = studentsList.pop()                 //pop use kore  item remove kora
 console.log(removeItem)
